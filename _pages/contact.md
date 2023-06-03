@@ -1,8 +1,8 @@
 ---
-title: "Getting Here"
+title: "Contact Us"
 layout: splash
 author_profile: false
-permalink: /location/
+permalink: /contact/
 header:
   image: /assets/images/east.mersea.hall.png
 ---

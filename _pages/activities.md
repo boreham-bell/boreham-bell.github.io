@@ -1,8 +1,8 @@
 ---
-title: "Getting Here"
+title: "Activities"
 layout: splash
 author_profile: false
-permalink: /location/
+permalink: /activities/
 header:
   image: /assets/images/east.mersea.hall.png
 ---

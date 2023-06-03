@@ -1,8 +1,8 @@
 ---
-title: "Getting Here"
+title: "RSVP"
 layout: splash
 author_profile: false
-permalink: /location/
+permalink: /RSVP/
 header:
   image: /assets/images/east.mersea.hall.png
 ---

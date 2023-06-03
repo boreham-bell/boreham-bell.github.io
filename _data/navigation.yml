@@ -2,9 +2,17 @@
 main:
   - title: "Getting here"
     url: /location/
-  - title: "The Day"
+  - title: "Order of the Day"
     url: /schedule/
   - title: "Guest Information"
     url: /information/
   - title: "RSVP"
     url: /RSVP/
+  - title: "Photos"
+    url: /photos/
+  - title: "Things to do"
+    url: /activities/
+  - title: "Seating arrangements"
+    url: /seating/
+  - title: "Contact information"
+    url: /contact/
