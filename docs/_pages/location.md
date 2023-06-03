@@ -1,7 +1,6 @@
 ---
 title: "Getting Here"
-layout: categories
-classes: wide
+layout: splash
 author_profile: false
 permalink: /location/
 ---
