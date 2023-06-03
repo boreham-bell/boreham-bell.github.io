@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Getting here"
      url: /location/
-   - title: "Order of the Day"
-     url: /schedule/
-   - title: "Guest Information"
-     url: /information/
-   - title: "RSVP"
-     url: /RSVP/
+   #- title: "The Day"
+   #  url: /schedule/
+   #- title: "Guest Information"
+   #  url: /information/
+   #- title: "RSVP"
+   #  url: /RSVP/
