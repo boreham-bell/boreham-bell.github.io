@@ -1,0 +1,19 @@
+Landing page with date, time and photos?
+Integrate google maps with key locations? Parking arrangements, bus times?
+Schedule for the day
+Guest informations - dress code, pet and children arrangements?
+Food and drink arrangement and choices
+RSVP forms - edit and check?
+Accoomodation arrangements
+Guest book?
+Photos - google drive link? slideshow?
+Wedding registry?
+Tide times
+Local things to do? Making a weekend of it?
+Seating arrangements
+Mobile friendly
+FAQ?
+Introduce ushers?
+Song requests? - Spotify playlist - group session
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+Contact information
